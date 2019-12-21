@@ -22,6 +22,8 @@ I've used these languages in a variety of applications from front-end applicatio
 
 I'm currently working on a proprietary messaging app with end-to-end encryption for maximal privacy. End-to-end encryption by itself isn't all that special, but Antem is the only app to my knowledge that will provide encryption for enterprise communication and productivity, as well as group chats, and accessibility from the web. All private messages are automatically encrypted, even for groups and organizations. An overview is available at [antem.app](https://antem.app).
 
+I also have ideas for other projects, including redesigning my University's "MaineStreet" scheduling website, and building an intelligently navigating autonomous robot that runs on a smartphone and uses the built-in camera as its primary sensor.
+
 ## Further Reading
 
 [**GitHub**](https://github.com/kiontupper): My GitHub profile showing many of my past projects.
