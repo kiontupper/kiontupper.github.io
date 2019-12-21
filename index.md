@@ -24,8 +24,10 @@ I'm currently working on a proprietary messaging app with end-to-end encryption 
 
 ## Further Reading
 
-[**Opinions**](reviews.md): My opinions on the languages listed above.
+[**GitHub**](https://github.com/kiontupper): My GitHub profile showing many of my past projects.
 
-[**Antem**](https://antem.app): Antem's website.
+[**Antem**](https://antem.app): My encrypted messaging app.
+
+[**Jeffrey**](https://github.com/kiontupper/Steamworks/blob/master/README.md): The robot I programmed for my FRC team in high school.
 
 [**Resume**](resume.html): My resume.
