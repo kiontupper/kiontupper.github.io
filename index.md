@@ -32,4 +32,6 @@ I also have ideas for other projects, including redesigning my University's "Mai
 
 [**Jeffrey**](https://github.com/kiontupper/Steamworks/blob/master/README.md): The robot I programmed for my FRC team in high school.
 
-[**Resume**](resume.html): My resume.
+[**Resume**](resume.html)
+
+[**LinkedIn**](https://www.linkedin.com/in/kion-tupper)
